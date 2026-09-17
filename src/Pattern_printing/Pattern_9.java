@@ -4,9 +4,9 @@ import java.util.Scanner;
 
 //1
 //01
-//1 01
-//01 01
-//1 01 01 
+//101
+//0101
+//10101 
 
 public class Pattern_9 {
     static void main(String[] args) {
